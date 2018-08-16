@@ -1,0 +1,4 @@
+{
+    "name": "martins/terraform-aws-security-group",
+    "type": "terraform-module"
+}
